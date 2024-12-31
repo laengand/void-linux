@@ -1,0 +1,1 @@
+xbps-install git, vscode
