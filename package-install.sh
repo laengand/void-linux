@@ -1,1 +1,1 @@
-xbps-install git, vscode
+xbps-install git vscode
